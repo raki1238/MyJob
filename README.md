@@ -3,6 +3,9 @@ This is created for an test purpose
 
 This Project contains two types of webservices mainly SOAP and REST
 
+# MySQL DB Table creation
+Please execute the CreateTable.sql file to create the table in MySQL db.
+
 # Available SOAP services:
 
 •gcdList - Gets the list of all GCDs stored in the database.
@@ -24,3 +27,5 @@ Body:
 
 2. elementsList: To get all the elements stored in the database
 GET URL: http://localhost:8080/WebServices/webapi/mygcd/elementsList
+
+
