@@ -1,0 +1,14 @@
+com\restws\model\GcdModel.class
+com\db\dao\GcdNumbersDAO.class
+com\restws\repo\ActivityRepositoryStub.class
+com\restws\ReceiveMessageServlet.class
+com\utils\CalculateGcd.class
+com\soapws\GcdServiceImpl.class
+com\soapws\GcdService.class
+com\soapws\ReceiveMessageServlet.class
+com\db\conn\DBConnectionHandler.class
+com\db\models\GcdNumbers.class
+com\db\dao\GcdNumbersDAOImpl.class
+com\soapws\Gcd.class
+com\restws\RestWebservices.class
+com\restws\SendMessageServlet.class
