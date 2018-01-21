@@ -29,3 +29,6 @@ Body:
 GET URL: http://localhost:8080/WebServices/webapi/mygcd/elementsList
 
 
+# Steps to use - Limitations
+1. As it is a maven project, you just need to import the project and run maven install which downloads all the jar files and creates war and ear file ready. Currently all the jars are checked in and war file is ready to deploy.
+2. It accepts all positive and negative integers only.
